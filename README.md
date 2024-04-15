@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Chinmoy Bora</h1><br>
 - 💬 Ask me about React, Reactnative and Nodejs<br>
 - 📫 How to reach me chinmoyborah100@gmail.com
+<br>
+<br>
+<br>
 
 <div> <a href="https://twitter.com/oxomiyamoi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/chinmoy-bora" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
